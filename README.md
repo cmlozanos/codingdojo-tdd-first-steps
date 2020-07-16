@@ -7,8 +7,8 @@ Dada una letra, pinta un diamante empezando con la letra 'A' y el punto más anc
 
 Por ejemplo: pintarDiamante("C") pintara:
 
-  A
- B B
-C   C
- B B
-  A
+#  A
+# B B
+#C   C
+# B B
+#  A
